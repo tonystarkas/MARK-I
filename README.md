@@ -1,2 +1,2 @@
 # MARK-I
-A "battleship" game, written in c++.
+A "battleship" game.
